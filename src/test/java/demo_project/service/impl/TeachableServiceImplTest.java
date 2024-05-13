@@ -1,10 +1,11 @@
 package demo_project.service.impl;
 
-import demo_project.enums.CourseOffer;
-import demo_project.enums.Gender;
-import demo_project.model.Course;
-import demo_project.model.Teacher;
+import week_3_curriculum.demo_project.enums.CourseOffer;
+import week_3_curriculum.demo_project.enums.Gender;
+import week_3_curriculum.demo_project.model.Course;
+import week_3_curriculum.demo_project.model.Teacher;
 import org.junit.jupiter.api.Test;
+import week_3_curriculum.demo_project.service.impl.TeachableServiceImpl;
 
 import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;
